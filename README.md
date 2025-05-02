@@ -1,4 +1,4 @@
-Hello this is a to do Task App made with flutter using cubit state management 
+<h2>Hello this is a to do Task App made with flutter using cubit state management</h2> 
 ## 📱 App Screenshots  
 
 <p float="left">
